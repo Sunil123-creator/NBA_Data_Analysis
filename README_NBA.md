@@ -82,7 +82,7 @@ Scoring correlates strongly with opportunity and ball involvement rather than pu
 
 ![Age Distribution](Age_Distribution.png)
 
-![Total Rebounds with 2P and 3P Field Goals](TRB_2P_and_3P_FG.png)
+![Total Rebounds with 2P and 3P Field Goals](TRB.png)
 
 ![Average Scoring Composition by Position](Scoring_composition.png)
 
