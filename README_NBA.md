@@ -80,18 +80,15 @@ Scoring correlates strongly with opportunity and ball involvement rather than pu
 
 ## Visualization
 
-![Age%20Distribution.png](attachment:Age%20Distribution.png)
+![Age Distribution](Age_Distribution.png)
 
-![Scatterplot%20of%20Total%20rebounds%20with%202P%20and%203P%20Field%20goals.png](attachment:Scatterplot%20of%20Total%20rebounds%20with%202P%20and%203P%20Field%20goals.png)
+![Total Rebounds with 2P and 3P Field Goals](TRB_2P_and_3P_FG.png)
 
-![Average%20Scoring%20Composition%20by%20Position.png](attachment:Average%20Scoring%20Composition%20by%20Position.png)
+![Average Scoring Composition by Position](Scoring_composition.png)
 
+![Top 25 Players by point per minute](Top_25.png)
 
-![Top%2025%20players%20by%20point%20per%20minute.png](attachment:Top%2025%20players%20by%20point%20per%20minute.png)
-
-![Players%20with%20Highest%20Personal%20Foul.png](attachment:Players%20with%20Highest%20Personal%20Foul.png)
-
-![Correlation%20Heatmap%20%28Non-Mechanical%20Metrics%29.png](attachment:Correlation%20Heatmap%20%28Non-Mechanical%20Metrics%29.png)
+![Correlation Heatmap (Non-Mechanical Metrics)](Correlation_Heatmap.png)
 
 
 ```python
